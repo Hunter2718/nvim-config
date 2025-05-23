@@ -15,7 +15,6 @@ return {
                 "markdown",
                 "rust",
             },
-            auto_install = false,
         })
     end
 }

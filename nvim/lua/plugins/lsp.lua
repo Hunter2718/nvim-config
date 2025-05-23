@@ -19,6 +19,7 @@ return {
             "lua",
             "rust",
             "c",
+            "markdown",
         }
         -- Create a keymap for vim.lsp.buf.implementation
         vim.api.nvim_create_autocmd('LspAttach', {
