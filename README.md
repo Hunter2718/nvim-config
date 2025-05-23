@@ -72,7 +72,7 @@ This config builds heavily on the workflow and ideas from that video.
 
 ## 📸 Screenshots
 
-*Add screenshots here if you want to show off your rice.*
+*None Yet*
 
 ---
 
